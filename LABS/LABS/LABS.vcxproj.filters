@@ -59,5 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt" />
+    <Text Include="in2.txt" />
   </ItemGroup>
 </Project>

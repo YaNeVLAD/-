@@ -122,7 +122,7 @@ int avlTree() {
 	int choice;
 
 	while (true) {
-		//system("cls");
+		system("cls");
 		ShowMenu();
 		std::cin >> choice;
 
